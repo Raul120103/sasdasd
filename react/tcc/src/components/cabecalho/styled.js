@@ -8,6 +8,7 @@ flex-direction:column;
 margin: 0px;
 background-color: black;
 color: white;
+
 header {
     display:flex;
     justify-content: flex-end;
