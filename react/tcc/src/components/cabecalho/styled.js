@@ -8,6 +8,10 @@ flex-direction:column;
 margin: 0px;
 background-color: black;
 color: white;
+opacity:80%;
+
+}
+
 
 header {
     display:flex;
@@ -16,6 +20,12 @@ header {
     font-family: 'Roboto';
     
 }
+
+.Filho { 
+    margin-left:auto;
+}
+
+
 
 header > div {
     display: flex;
@@ -29,17 +39,22 @@ header > div {
 
 .Filho {
 
-    margin-left: 12em;
-
+    margin-left: 13em;
+    align-content: flex-start;
+    
 }
 .Containercabe{
     margin-top: initial;
     color: black;
+    opacity:80% ;
 }
 
 .sub-cabecalho> div {
-    margin-left: 5em;
+    margin-left: 13em;
 
+}
+.Filho2 {
+    margin-left: 13em;
 }
 
 `
